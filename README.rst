@@ -1,5 +1,6 @@
 # 已经编译好的image：
 https://github.com/WillzenZou/armbian_fork_build/releases/download/willzen-armbian-24.5.0/2.waydroid-panthorv10-240416-v1.img.tar.gz
+https://mp.weixin.qq.com/s/9kIvpwabaLy72Q9mXH5Ozw
 
 
 `Mesa <https://mesa3d.org>`_ - The 3D Graphics Library
